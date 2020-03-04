@@ -1,4 +1,4 @@
-# Título del trabajo
+# Tabla periódica
 Se realizará una tabla periódica que dará cualquier elemento con sus propiedades y ordenados.
 ## Integrantes del equipo
 Fernando Matellán
