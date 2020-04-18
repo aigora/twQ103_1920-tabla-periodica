@@ -16,13 +16,13 @@ int main(){
 		printf("3-Buscar periodo de la tabla periodica. \n");
 		printf("4-Buscar por caracter metalico. \n");
 		printf("5-Comparador de elementos. \n");
+	    	printf("6-Mostrar tabla periodica. \n");
 		printf("0-Salir del programa. \n");
 		scanf("%d",&opcion);
+	    
 	}
-	
-	
 	while (opcion!=0);
-
+	
 
 
 }
