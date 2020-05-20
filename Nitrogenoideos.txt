@@ -1,0 +1,6 @@
+Nitrogeno	N
+Fosforo	P
+Arsenico	As
+Antimonio	Sb
+Bismuto	Bi
+Moscovium	Mc

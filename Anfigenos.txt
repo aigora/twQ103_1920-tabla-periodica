@@ -1,0 +1,6 @@
+Oxigeno	O
+Azufre	S
+Selenio	Se
+Telurio	Te
+Polonio	Po
+Livemorio	Lv

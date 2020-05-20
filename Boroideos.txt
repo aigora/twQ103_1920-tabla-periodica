@@ -1,0 +1,6 @@
+Boro	B
+Alumnio	Al
+Galio	Ga
+Indio	In
+Talio	Tl
+Nihonium	Nh

@@ -1,0 +1,7 @@
+Hidrogeno	H
+Litio		Li
+Sodio		Na
+Potasio		K
+Rubidio		Ru
+Cesio		Cs
+Francio		Fr

@@ -1,0 +1,8 @@
+Sodio	Na
+Magnesio	Mg
+Aluminio	Al
+Silicio	Si
+Fosforo	P
+Azufre	S
+Cloro	Cl
+Argon	Ar

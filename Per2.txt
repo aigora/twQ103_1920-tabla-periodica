@@ -1,0 +1,8 @@
+Litio	Li
+Berilio	Be
+Boro	B
+Carbono	C
+Nitrogeno	N
+Oxigeno	O
+Fluor	F
+Neon	Ne

@@ -1,0 +1,7 @@
+Helio	He
+Neon	Ne
+Argon	Ar
+Kripton	Kr
+Xenon	Xe
+Radon	Rn
+Oganesson	Og

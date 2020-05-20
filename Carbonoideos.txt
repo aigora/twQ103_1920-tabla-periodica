@@ -1,0 +1,6 @@
+Carbono	C
+Silicio	Si
+Germanio	Ge
+Estanno	Sn
+Plomo	Pb
+Flevorio	Fl

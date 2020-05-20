@@ -1,0 +1,6 @@
+Fluor	F
+Cloro	Cl
+Bromo	Br
+Yodo	I
+Astato	At
+Tennessine	Ts

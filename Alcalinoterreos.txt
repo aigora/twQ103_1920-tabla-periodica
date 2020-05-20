@@ -1,0 +1,6 @@
+Berilio	Be
+Magnesio	Mg
+Calcio	Ca
+Estroncio	Sr
+Bario	Ba
+Radio	Ra
