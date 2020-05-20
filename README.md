@@ -12,4 +12,4 @@ El usuario elegirá entre diversas opciones:
   ·Ordenar Radio Atómico de menor a mayor: El usuario al elegir esta opción obtendrá una lista con todos los elementos de la tabla periodica ordenados de menor a mayor.
   ·Comparador de elementos: El usuario elige dos elementos y el programa mostrará los datos de estos para proporcionar una comparación sencilla de los dos.
   ·Mostrar tabla periodica: El usuario al elegir esta opción obtendrá una tabla con todos los elementos de la tabla periodica ordenados de menor a mayor numero atomico.
-  ·Juego: Juego de preguntas en el cual se le harán al usuario una serie de preguntas y dependiendo de su respuesta será verdadera o falsa. Al terminar las preguntas se le pondrá una calificación.
+  ·Juego de Adivinar el Elemento: El usuario al elegir esta opción tendrá que adivinar un elemento generado por el programa aleatoriamente, guiandose por las pistas dadas respecto al Numero Atomico del Elemento Solucion.
